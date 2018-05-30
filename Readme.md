@@ -1,7 +1,8 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Надежда Панченко](https://up.htmlacademy.ru/javascript/14/user/192200).
-* Наставник: `Неизвестно`.
+* Наставник: [Борис Ванюшин]
+(https://htmlacademy.ru/profile/id62080)
 
 ---
 
